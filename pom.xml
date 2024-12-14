@@ -9,17 +9,17 @@
   <url>http://maven.apache.org</url>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.comiler.traget>1.8</maven.compiler.target>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-   <dependencies>
-    <!-- <dependency>
+  <dependencies>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
-    </dependency> -->
-   </dependencies>
-   <build>
+    </dependency>
+  </dependencies>
+  <build>
     <finalName>flipkartApp</finalName>
-   </build>
+  </build>
 </project>
