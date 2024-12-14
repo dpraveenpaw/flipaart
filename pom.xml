@@ -11,15 +11,15 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.comiler.traget>1.8</maven.compiler.target>
   </properties>
-  <dependencies>
+   <dependencies>
     <!-- <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency> -->
-  </dependencies>
-  <build>
+   </dependencies>
+   <build>
     <finalName>flipkartApp</finalName>
-  </build>
+   </build>
 </project>
